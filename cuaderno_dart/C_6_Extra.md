@@ -1,6 +1,10 @@
 # Parte 6 - Extra
 
-> *Persistir y recuperar tareas en Shared Preferences*
+> *Añadir Launcher Icons*
+
+> *Compilar la app*
+
+> *Subida a las Stores*
 
 
 

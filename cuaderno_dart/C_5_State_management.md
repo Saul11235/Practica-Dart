@@ -1,7 +1,18 @@
 # Parte 5 - State management
 
-> *Persistir y recuperar tareas en Shared Preferences*
+> *Estado de la aplicación*
 
+
+> *Inherited widgets*
+
+
+> *Provider*
+
+
+> *Añadir Provider  a Task List Page*
+
+
+> *Añadir Provider a New Task Modal*
 
 
 *Tareas*
